@@ -1,0 +1,659 @@
+@media(max-width: 768px){
+
+}
+
+@media only screen and (max-width:767px) {
+	.flex-news-block{
+		height: 120px;
+	}
+	.why-cont{
+		margin:10px 0px;
+	}
+	.single-why-block.why-content{
+		padding:10px;
+	}
+	.patch_content img{
+		width: 100%;
+	}
+	ul.nav_lists li{
+		    padding: 7px 15px;
+	}
+		.form_career_block{
+			padding: 47px 20px;
+		}
+		.career_left img{
+			height: auto;
+		}
+		.section_download .panel-collapse .panel-group .panel-body{
+			padding: 10px 0px;
+		}
+		a.download_file{
+			border-bottom: 1px solid #fff;
+		}
+		.careers-block .careers-inner {
+		    padding-bottom: 75px;
+		}
+		.careers-block .block_contact {
+		    min-height: auto;
+		}
+		.careers-block .contact-image img.two-img {
+		    width: 30%;
+		}
+		.careers-block .careers-inner:nth-child(3) {
+		    padding-bottom: 20px;
+		}
+		.job-card {
+		    width: 48%;
+		    margin: 1%;
+		}
+		.job-card .know_more {
+		 	padding: 5px 10px;
+		}
+		.img_mobile{
+			height: 120px;
+		}
+		section.about_content{
+			position: static;
+			width: 100%;
+		}
+		section.vision_new{
+			padding: 50px 20px 50px;
+		}
+		body{
+			font-size: 14px;
+		}
+		p{
+			font-size: 12px!important;
+		}
+		.block_about.section_inner{
+			padding:0px;
+		}
+		.main_title {
+			padding-bottom: 15px;
+			font-size:22px;
+		}
+		h3.branches_title{
+			 font-size:20px;
+		}
+		.banner{
+			text-align:center;
+		}
+		.know_more {
+	 	   	padding: 5px 8px;
+		}
+		.banner_text h1{
+			font-size: 24px;
+			line-height: 1.3;
+		}
+		.banner_text{
+			text-align: right;
+			letter-spacing: 1px;
+			top: 90px;
+			right: 4%;
+			/*transform: translate(50%);*/
+		}
+      .banner_about_text .shadow_text{
+      		display:none;
+       }
+       .line_journey{
+       		display:none;
+       }
+       header{
+       		/*position:static;*/
+       }
+       .navbar{
+       		line-height: 20px;
+       }
+       .block_logo img{
+    	    width:112px;
+    		margin: 10px;
+       }
+       .banner_about_text h1{
+       		font-size: 26px;
+       }
+       .section{
+      	 	padding-top:0px;
+       }
+       .section.product_banner{
+       	padding-top: 100px;
+       }
+       .banner_about{
+       		position:static;
+       		padding-top: 82px;
+       }
+       .banner_about_text{
+       		position:static;
+       		text-align:center;
+       		letter-spacing: 0px
+
+       }
+       .top_header{
+       		/* margin-top: -174px; */
+       		-webkit-transition: 0.5s ease;
+       		transition: 0.5s ease;
+       }
+       .open_topheader{
+       		margin-top: 0px;
+       		-webkit-transition: 0.5s ease;
+       		transition: 0.5s ease;
+       }
+       .show_topHeader {
+       	display: block;
+		    position: absolute;
+		    right: 16%;
+		    padding: 14px 16px;
+		    background: #4c4d4f;
+		    color: #fff;
+		    text-shadow: 0 0 black;
+		}
+		.show_topHeader i{
+			-webkit-transition: 0.5s ease;
+			transition: 0.5s ease;
+		}
+		.flip_arrow{
+			display:block;
+		}
+		.flip_arrow i{
+			-webkit-transform:rotate(-180deg);
+			transform:rotate(-180deg);
+			-webkit-transition: 0.5s ease;
+			transition: 0.5s ease;
+		}
+       .logo {
+    		float: none;
+    		text-align:left;
+    		padding:0px;
+		}
+		.logo a{
+			display:inline-block;
+			padding: 16px 25px;
+		}
+		nav ul li{
+			display:block;
+			border-bottom: 1px solid #4c4d4f29;
+		}
+		nav ul li a{
+			line-height: 3;
+		}
+		.navbar-nav>li>a{
+			line-height: 40px;
+		}
+
+		.main_header .navbar-toggle{
+			border-radius: 0px;
+			margin-top: 0px;
+		}
+		.nav_menu{
+			float:none;
+		}
+		ul.top_list li{
+		   display: block;
+		    text-align: left;
+		    padding: 5px 0;
+		    border-bottom: 1px solid #797979;
+		}
+		ul.sub-menu li{
+			border-bottom: none;
+		}
+		 li.last_co{
+       		border-bottom: none!important;
+   		}
+		.top_right_ico li:last-child{
+			border-bottom: none;
+		}
+		.section_why_iti{
+			text-align: center;
+		}
+		.tabs_team .nav-pills li {
+		    display: block;
+		    width: 100%;
+		}
+		.footer_2 div:nth-child(2) {
+		    text-align: center;
+		}
+		.navbar {
+	        padding: 5px 0px 5px 0px !important;
+			position: absolute;
+			z-index: 99;
+			background: #fff;
+			width: 100%;
+			-webkit-box-shadow: 0px 2px 2px #00000047;
+			box-shadow: 0px 2px 2px #00000047;
+		}
+		/*-----------investor relation-------------*/
+		.block_text li {
+		    /*padding-bottom: 9px;*/
+		    font-size: 15px;
+		    line-height: 20px;
+		    width: 100%;
+		}
+		.single-cmp.cmp_box{
+			width:100%;
+		}
+
+		/*-----------group entities------------*/
+		.map_mob{
+			margin-top: 20px;
+		}
+
+		/*-------product--------------*/
+		.banner_product_text{
+			left: 12%;
+		}
+		.banner_product .shadow_text{
+			display:none;
+		}
+		.banner_product_text h1 {
+   			 font-size: 20px;
+   		}
+   		.banner_product_container {
+		    /*padding: 100px 0px;*/
+		}
+		.patch_text{
+			margin-top:0px;
+			font-size: 12px;
+			/*padding: 2px;*/
+		}
+		.line{
+			display: none;
+		}
+		.patch_head .panel-heading{
+			padding: 10px 9px;
+		}
+		.patch_content{
+			padding-left: 15px;
+		}
+		.patch_head .panel-heading.active{
+			padding: 10px 9px;
+		}
+		.patch_head .panel-collapse{
+			padding: 0px 10px!important;
+
+		}
+		.section_contact h4{
+			 font-size: 16px;
+		}
+		.btn_enquire{
+			padding: 5px 16px;
+			font-size: 14px;
+		}
+		/*.contact_block{
+			margin-top: 10px;
+    		text-align: center;
+		}*/
+		/*.contact_block img{
+			width:10%;
+		}*/
+		/*----------financial---------*/
+		#finance_block .banner_inner_text{
+			color:#4c4d4f;
+			position:static;
+			text-align: center;
+		}
+		#finance_block .banner_inner_text h1{
+			font-size: 26px;
+		}
+		#finance_block .shadow_text{
+			display:none;
+		}
+
+		#finance_block .banner_inner {
+			position:static;
+		}
+
+		.desk_pro{
+			display:none;
+		}
+
+		div.mob_pro{
+			display:block;
+		}
+		 ul.timeline:before {
+        left: 40px;
+	    }
+
+	    ul.timeline > li > .timeline-panel {
+	        width: calc(100% - 90px);
+	        width: -webkit-calc(100% - 90px);
+	    }
+
+	    ul.timeline > li > .timeline-badge {
+	        left: 15px;
+	        margin-left: 0;
+	        top: 16px;
+	    }
+
+	    ul.timeline > li > .timeline-panel {
+	        float: right;
+	    }
+
+	    ul.timeline > li > .timeline-panel:before {
+	        border-left-width: 0;
+	        border-right-width: 15px;
+	        left: -15px;
+	        right: auto;
+	    }
+
+	    ul.timeline > li > .timeline-panel:after {
+	        border-left-width: 0;
+	        border-right-width: 14px;
+	        left: -14px;
+	        right: auto;
+	    }
+	    .block_enqiure .btn_reset{
+	    	/*margin:-2px;*/
+	    }
+	    .block_enqiure .btn_submit{
+	    	/*float:left;*/
+	    }
+	    p.one{
+		    font-size: 13px;
+		    margin-top: 10px;
+
+		}
+		ul.nav_lists li a{
+			padding: 13px;
+		}
+
+		/*---------- home page------------*/
+
+		/*Stop aos animation*/
+
+		.noanimated {
+		    -webkit-animation-duration: none;
+		            animation-duration: none;
+		    -webkit-animation-fill-mode: none;
+		            animation-fill-mode: none;
+		}
+
+		.tb-img img{
+			 width: inherit;
+		}
+		.tabs_team li > a{
+			padding: 17px;
+		}
+		.navbar-nav>li>a{
+  	 		padding-top: 0px!important;
+  	 	}
+  	 	.cmp_descri h3{
+		    font-size: 18px;
+		}
+		.cmp_logo{
+			text-align: left;
+		}
+		.cmp_box:nth-child(even){
+			border-left: none;
+		}
+		.block_invester .main_title h2{
+			font-size: 22px!important;
+		}
+		.block_invester .main_title{
+			margin-left: 0px;
+			text-align: center;
+		}
+		.block_manage{
+			padding: 16px;
+		}
+		.tabs_team li > a{
+			font-size: 14px;
+		}
+		.manage_designation h4{
+			font-size: 14px;
+		}
+		.main_title_black{
+			font-size: 22px;
+		}
+		.subtitle{
+			font-size: 14px;
+		}
+		.patch_head .panel-heading{
+			margin-bottom: 2px;
+		}
+		.fin_know_more a{
+			padding: 5px 10px;
+			font-size: 12px;
+		}
+		.banner_product_text{
+			text-align: center;
+		}
+		.banner_product_container{
+			padding: 70px 0px 135px;
+		}
+		.footer_blog{
+			min-height: 165px;
+		}
+		.footer_2{
+			text-align: center;
+		}
+		.section_inner{
+			padding: 20px 0px;
+		}
+		.block_text li a{
+			font-size: 12px;
+		}
+		.map{
+			margin-top: 13px;
+			border-left: none;
+			padding: 0px;
+		}
+		section.about_content{
+			position: static;
+			width: 100%;
+		}
+		section.vision_new{
+			padding: 50px 20px 50px;
+		}
+		.main_title_black{
+			padding-bottom: 15px;
+		}
+		.block_value:after{
+			width: 100%;
+			height: 1px;
+		}
+		.block_value{
+			margin-top:20px;
+		}
+		.line_finance{
+		    font-weight: 600;
+		    font-size: 14px;
+		}
+		.block_invest_img img {
+		    height: 450px;
+		    -o-object-fit: cover;
+		    object-fit: cover;
+		    border-radius: 30px;
+		}
+		.two_product:nth-child(1){
+			margin-left: 0px!important;
+		}
+		.contact_info .panel-default>.panel-heading .panel-title{
+			font-size: 12px;
+		}
+		.contact_info .panel-heading{
+			padding: 5px 5px;
+		}
+		.team_detail{
+			min-height: initial;
+		}
+		.manage_image img{
+			height: 80px;
+    		width: 80px;
+		}
+		.block_invester{
+			padding: 0px;
+		}
+		.contact_info p{
+			font-size: 12px!important;
+		}
+		.block_addr{
+			padding:0px;
+		}
+        .grievance-address  p{
+			min-height: auto;
+		}
+
+	}
+
+
+@media only screen and (min-width:768px) and (max-width:991px)
+	{
+       	section.about_content{
+			position: static;
+			width: 100%;
+		}
+		section.vision_new{
+			padding: 50px 20px 50px;
+		}
+   		.banner_product_container{
+   			padding: 10px 0px 165px;
+  	 	}
+  	 	.banner_product_text{
+  	 		left: 6%;
+  	 	}
+  	 	.banner_product_text h1{
+  	 		font-size: 26px;
+  	 	}
+  	 	.nav>li>a{
+  	 		padding: 10px 7px;
+  	 	}
+
+  	 	.footer_blog{
+			min-height: 200px;
+		}
+  	 	.patch_text{
+
+  	 	}
+  	 	.banner_about_text{
+  	 		left: 13%;
+  	 	}
+  	 	.tabs_team .nav-pills li{
+  	 		width:32%;
+  	 	}
+  	 	.tabs_team li > a{
+  	 		font-size: 16px;
+  	 	}
+  	 	.block_text{
+  	 		font-size: 16px;
+  	 	}
+  	 	.block_text li {
+		    padding-bottom: 13px;
+		}
+		.block_invester .main_title h2 {
+		    font-size: 18px!important;
+		}
+		.map_mob{
+			margin-top: 20px;
+		}
+		.cmp_descri h3{
+		    font-size: 18px;
+		}
+		.cmp_logo{
+			text-align: left;
+		}
+		.top_right_ico,.top_list {
+			text-align: center;
+		}
+	}
+
+
+@media only screen and (min-width: 992)
+	{
+      	.img_mobile{
+			display: none;
+		}
+		 li.dropdown:hover ul.dropdown-menu{
+        	display:block;
+ 		}
+ 		.navbar-nav>li>a{
+ 			padding:15px 5px !important;
+ 		}
+
+
+}
+@media only screen and (min-width:1600px){
+section.new-why-block{
+	background-size: 18%;
+}
+}
+
+@media only screen and (min-width:992px) and (max-width:1080px) {
+	.nav>li>a {
+		    padding: 10px 9px;
+		}
+}
+@media only screen and (min-width:1280px) and (max-width:1440px) {
+	.img_mobile{
+		display: none;
+	}
+	li.dropdown:hover ul.dropdown-menu{
+    	display:block;
+	}
+	.navbar-nav>li>a{
+		padding:15px 10px !important;
+	}
+ }
+
+@media only screen and (min-width:1440px) {
+	.img_mobile{
+		display: none;
+	}
+	li.dropdown:hover ul.dropdown-menu{
+    	display:block;
+	}
+	section.vision_new{
+		    padding: 100px 20px 100px;
+	}
+}
+@media (max-width: 767px){
+	.banner.mob-top-space {
+		padding-top: 82px;
+	}
+	section.about_content{
+		border-radius: 0px;
+		padding:20px;
+		margin-top: 40px;
+
+	}
+	.single-why-block.why-img{
+		width: 100%;
+	}
+	.single-why-block.why-content{
+		width: 100%;
+	}
+	.why-cont{
+		width: 100%;
+	}
+	section.new-why-block{
+		padding-top: 0px;
+		background-size: 22%;
+		position: relative;
+		background-position: 15px 45px;
+	}
+	.flex-vision{
+		-ms-flex-wrap: wrap;
+		flex-wrap: wrap;
+	}
+	.flex-why-block {
+		-ms-flex-wrap: wrap;
+		flex-wrap: wrap;
+	}
+}
+@media (max-width: 540px){
+	.job-card {
+	    width: 96%;
+	    margin: 2%;
+	    padding: 10px 15px 40px;
+	}
+	form.block_enqiure {
+    	padding: 0px!important;
+	}
+}
+@media (max-width: 320px){
+	.block_invest_img img {
+    height: 200px;
+	}
+	.banner_text h1{
+		font-size: 18px;
+	}
+}
+	
